@@ -2,7 +2,7 @@
 
 
 # Hi there, I'm Sanan. :blush:
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif " align="right" width="250" height="200" >
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif " align="right" width="250" height="300"  >
 
 ## I'm a Front-end Developer 
 
