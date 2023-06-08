@@ -11,8 +11,8 @@
 
 ### Reach out to me
 [<img   width="22" src="https://unpkg.com/simple-icons@v9/icons/linkedin.svg" align="left" />][linkedin] 
-[<img  width="22" src="https://unpkg.com/simple-icons@v9/icons/facebook.svg" align="left" />][linkedin] 
-[<img  width="22" src="https://unpkg.com/simple-icons@v9/icons/twitter.svg" align="left" />][linkedin] 
+[<img  width="22" src="https://unpkg.com/simple-icons@v9/icons/facebook.svg" align="left" />][facebook] 
+[<img  width="22" src="https://unpkg.com/simple-icons@v9/icons/twitter.svg" align="left" />][twitter] 
 
 <br />
 <br />
